@@ -1,0 +1,23 @@
+{
+  "name": "estudos_mongo",
+  "version": "1.0.0",
+  "description": "Estudos com mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelmatosqa/estudos_mongo.git"
+  },
+  "keywords": [
+    "mongo",
+    "javascript"
+  ],
+  "author": "Rafael Matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelmatosqa/estudos_mongo/issues"
+  },
+  "homepage": "https://github.com/rafaelmatosqa/estudos_mongo#readme"
+}
