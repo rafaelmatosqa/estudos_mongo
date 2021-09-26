@@ -8,7 +8,8 @@ MongoClient.connect(url, function(err, db) {
   var my_data = employee;
   dbo.collection("Employee").insertMany(my_data, function(err, res) {
     if (err) throw err;
-    console.log("Insert realizado com sucesso");
+    console.log("Quantidade de registros inseridos: " + res.insertedCount);
     db.close();
   });
 });
+
