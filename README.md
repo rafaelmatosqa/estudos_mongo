@@ -2,6 +2,6 @@
 
 Aqui você vai encontrar alguns estudos básicos de mongoBD e node js.
 
-Ao realizar o clone do projeto é preciso executar no terminar o comando:
+Ao realizar o clone do projeto é preciso executar no terminal o comando:
 
 npm install.
